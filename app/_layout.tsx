@@ -1,5 +1,6 @@
 import { Stack } from "expo-router";
 import { AuthProvider } from "./context/AuthContext";
+import React = require("react");
 
 export default function Layout() {
     
